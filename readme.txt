@@ -1,2 +1,2 @@
-Gid is a version control system.
+Gid is a distributed version control system.
 Git is free software.
